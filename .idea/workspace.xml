@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi added" />
+    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703712620643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CircleCi changes">
+      <created>1703715564635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703715564635</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CircleCi changes">
+      <created>1703715664036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703715664036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TicketingProject_Security Added" />
     <MESSAGE value="CircleCi added" />
-    <option name="LAST_COMMIT_MESSAGE" value="CircleCi added" />
+    <MESSAGE value="CircleCi changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="CircleCi changes" />
   </component>
 </project>
