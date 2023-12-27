@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi changes v12312311">
+    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi changes v999999">
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703716532650</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CircleCi changes v999999">
+      <created>1703718823373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703718823373</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +206,7 @@
     <MESSAGE value="CircleCi added" />
     <MESSAGE value="CircleCi changes" />
     <MESSAGE value="CircleCi changes v12312311" />
-    <option name="LAST_COMMIT_MESSAGE" value="CircleCi changes v12312311" />
+    <MESSAGE value="CircleCi changes v999999" />
+    <option name="LAST_COMMIT_MESSAGE" value="CircleCi changes v999999" />
   </component>
 </project>
