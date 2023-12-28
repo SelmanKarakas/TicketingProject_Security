@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi changes v999999">
+    <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi changes 8888">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Selman/IdeaProjects/What_I_Learn",
+    "last_opened_file_path": "C:/Users/Selman/IdeaProjects/What_I_Learn/Project_Practices/ticketing-project-security-part-0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +57,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "97fcafad4b13f17bd8d1419167f99230",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="Spring Boot.TicketingProjectSecurityApplication">
@@ -142,7 +147,35 @@
       <option name="project" value="LOCAL" />
       <updated>1703718823373</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CircleCi changes v999952399">
+      <created>1703718851704</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703718851704</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CircleCi changes v9999523999">
+      <created>1703718912800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703718912800</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CircleCi changes 8">
+      <created>1703719081170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703719081170</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CircleCi changes 8888">
+      <created>1703719731607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703719731607</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +240,10 @@
     <MESSAGE value="CircleCi changes" />
     <MESSAGE value="CircleCi changes v12312311" />
     <MESSAGE value="CircleCi changes v999999" />
-    <option name="LAST_COMMIT_MESSAGE" value="CircleCi changes v999999" />
+    <MESSAGE value="CircleCi changes v999952399" />
+    <MESSAGE value="CircleCi changes v9999523999" />
+    <MESSAGE value="CircleCi changes 8" />
+    <MESSAGE value="CircleCi changes 8888" />
+    <option name="LAST_COMMIT_MESSAGE" value="CircleCi changes 8888" />
   </component>
 </project>
