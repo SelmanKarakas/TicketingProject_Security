@@ -41,7 +41,7 @@ jobs:
           name: Execute Deployment Script
           command: |
             ssh -o "StrictHostKeyChecking=no" ec2-user@ec2-16-171-224-57.eu-north-1.compute.amazonaws.com <<'ENDSSH'
-            /bin/deploy-image.sh
+            /bin/bash bin/deploy-image.sh
             ENDSSH
 workflows:
   version: 2
