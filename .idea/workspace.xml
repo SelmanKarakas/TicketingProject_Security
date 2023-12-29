@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2972955-5520-44eb-a8a5-686662d5f43b" name="Changes" comment="CircleCi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +43,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Selman/IdeaProjects/What_I_Learn/Project_Practices/ticketing-project-security-part-0",
+    "last_opened_file_path": "C:/Users/Selman/IdeaProjects/What_I_Learn/Spring/SpringData/SpringData_TableCreation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +95,7 @@
       <updated>1703710307321</updated>
       <workItem from="1703710308622" duration="134000" />
       <workItem from="1703710639133" duration="1418000" />
+      <workItem from="1703813048662" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="TicketingProject_Security Added">
       <created>1703710861591</created>
@@ -210,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703804643092</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="CircleCi">
+      <created>1703808521572</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703808521572</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
